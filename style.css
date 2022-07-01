@@ -198,7 +198,8 @@ section p {
 
 .home {
     height: 100vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(back1.png) no-repeat;
+    width: 100%;
+    background-image: url("/img/w8.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -206,6 +207,7 @@ section p {
 .home-content {
     display: grid;
     grid-template-columns: 1.2fr 1.2fr;
+
 }
 
 .inner-content {
