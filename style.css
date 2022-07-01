@@ -221,7 +221,6 @@ section p {
 .inner-content-img img {
     width: 45rem;
     height: auto;
-    animation: icon 5s ease infinite;
 }
 
 .inner-content i {
@@ -240,7 +239,6 @@ section p {
     width: 45rem;
     height: auto;
     text-align: center;
-    animation: icon 4s ease infinite;
 }
 
 .about-content h3 {
